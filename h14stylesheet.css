@@ -11,18 +11,18 @@ body {
 
 
 /* Bagian Header */
-.atas{
+.bagian-atas{
  padding: 180px 0 100px 0;  
  text-align:center; 
 }
 
-.atas h1{
+.bagian-atas h1{
  font-size:50px;   
  letter-spacing: 5px;
  margin-bottom: 10px;
 }
 
-.atas p{
+.bagian-atas p{
  font-size:20px;
 }
 
