@@ -30,8 +30,17 @@ body {
 }
 
 .judul-kanan{
-  padding-top: 20px;
-  float:right;   
+  float:right;  
+  background-color: rgba(255, 255, 255, 0.3);
+  transition:all 0.5s; 
+}
+
+.judul-kanan a{
+  line-height: 65px;
+  padding-left: 25px;
+  padding-right: 25px;
+  color: white;
+  display:block;
 }
 
 /* Bagian Header */
