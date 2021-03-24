@@ -11,11 +11,11 @@ body {
 
 
 /* Bagian Header */
-h1{
+.atas h1{
  font-size:30px;   
 }
 
-p{
+.atas p{
  font-size:20px;
 }
 
