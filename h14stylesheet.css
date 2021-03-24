@@ -37,9 +37,7 @@ body {
 
 .judul-kanan a{
   line-height: 65px;
-  padding-left: 25px;
-  padding-right: 25px;
-  color: white;
+  padding: 20px 25px;
   display:block;
 }
 
