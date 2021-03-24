@@ -15,13 +15,13 @@ body {
 }
 
 .judul span {
-  width: 124px;
-  padding-top: 20px;
   font-size:20px;
   color:white;
 }
 
 .judul-kiri {
+  width: 124px;
+  padding-top: 20px;
   float: left;
 }
 
