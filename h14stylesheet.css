@@ -12,7 +12,10 @@ body {
 
 /* Bagian Header */
 .atas h1{
- font-size:30px;   
+ font-size:50px;   
+ letter-spacing: 5px;
+ margin-bottom: 10px;
+ text-align:center;
 }
 
 .atas p{
