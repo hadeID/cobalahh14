@@ -15,12 +15,12 @@ body {
 .judul {
   height: 65px;
   width: 100%;
+  color:white;
   background-color: rgba(34, 49, 52, 0.9);
 }
 
 .judul span {
   font-size:20px;
-  color:white;
 }
 
 .judul-kiri {
@@ -30,7 +30,7 @@ body {
 }
 
 .judul-kanan{
- float:right;   
+  float:right;   
 }
 
 /* Bagian Header */
